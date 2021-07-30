@@ -1,0 +1,40 @@
+// Image you are in library
+// You have following shelves 
+
+ 
+
+let shelf1 = ["bookmark","bookseparator",{"name":"Harry Potter","type":"book", pages:100}];
+
+ 
+
+let shelf2 = [1,null,{"name":"Kite Runner","type":"book", pages:500}];
+
+
+
+
+
+
+
+
+ 
+
+// Question 1
+// Print all the books kept on the shelfs
+// read this link for using for loop in JS- https://www.w3schools.com/js/js_loop_for.asp
+
+ 
+
+// Question 2
+// Print book with maximum pages
+// read this link to sort in JS - https://www.c-sharpcorner.com/UploadFile/fc34aa/sort-json-object-array-based-on-a-key-attribute-in-javascrip/
+ 
+
+// Question 3
+// Improve above using find
+// read this - https://www.w3schools.com/jsref/jsref_find.asp
+
+ 
+
+// Question 4 
+// Improve using filter
+// read this - https://www.w3schools.com/jsref/jsref_filter.asp
